@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+HELO88.HONEY - Đại Lý Ủy Quyền Chính Thức của HELLO88 với Dịch Vụ Cược Đỉnh Cao và Minh Bạch
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+helo88.money tự hào là đại lý ủy quyền chính thức của nhà cái `HELLO88 <https://helo88.money/>`_, mang đến cho người chơi một nền tảng cá cược trực tuyến đáng tin cậy và phong phú. Với sự hỗ trợ trực tiếp từ HELLO88, HELO88 HONEY không chỉ cung cấp những sản phẩm và dịch vụ chất lượng nhất mà còn đảm bảo sự minh bạch và công bằng trong mọi giao dịch. Tại HELO88, người chơi có thể dễ dàng tiếp cận với các trò chơi phong phú, từ cá cược thể thao đến casino trực tuyến, cùng các ưu đãi hấp dẫn và khuyến mãi thường xuyên.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 95 Đ. Xóm Đất, Phường 8, Quận 11, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0781132330. 
 
-Contents
---------
+Email: info@helo88.money. 
 
-.. toctree::
+Website: https://helo88.money/
 
-   usage
-   api
+#hello88 #nhacaihello88 #trangchuhello88 #dangkyhello88 #linkhello88
